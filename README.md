@@ -19,7 +19,8 @@ sudo pip3 install neovim
 ## Installation
 
 - Clone this repository
-- Put the folder to `vim-plugs` to plugin directory.
+- Put the folder to `vim-plug`'s plugin directory according to your vim configuration
+- Or you can put the folder to any other plugin manager's root directory whrere plugins reside
 - Update the remote plugins using `UpdateRemotePlugins`
 - Reload vim configurations
 
